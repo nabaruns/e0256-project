@@ -1,4 +1,5 @@
-# E0256_Project--Exploitation of CVE 2018-4990.
+# E0256_Project.
+# CVE 2018-4990: Vulnerability and exploit analysis.
 
 Download the virtual machine(.vdi file) from the link below- https://drive.google.com/file/d/1hsWh7p6oHM49N415TFZmODUvMLlkyvtV/view?usp=sharing
 
