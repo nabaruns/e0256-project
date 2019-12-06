@@ -11,4 +11,4 @@ The required application are already installed in this vartual machine.
 3. JP2Klib.dll version 1.2.2.38123
 4. Exploit PDF (MD5 e6b7392fb03ff9ff069a9ec5d4221641) 
 
-There is a PDF file on destop with name exploit.pdf. This is specially crafted PDF file to trigger the DLL file and crash the reader.
+There is a PDF file on desktop with name exploit.pdf. This is specially crafted PDF file to trigger the DLL file and crash the Adobe Acrobat Reader.
